@@ -1,0 +1,11 @@
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langgraph
+faiss-cpu
+sentence-transformers
+pypdf
